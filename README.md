@@ -1,0 +1,1 @@
+# Text rotator demo
